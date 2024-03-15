@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\fileexplorer\fileexplorer\obj\Debug\fileexplorer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\fileexplorer\fileexplorer\obj\Debug\fileexplorer.Form1.resources
+C:\Users\User\source\repos\fileexplorer\fileexplorer\obj\Debug\fileexplorer.Properties.Resources.resources
+C:\Users\User\source\repos\fileexplorer\fileexplorer\obj\Debug\fileexplorer.csproj.GenerateResource.cache
+C:\Users\User\source\repos\fileexplorer\fileexplorer\obj\Debug\fileexplorer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fileexplorer\fileexplorer\bin\Debug\fileexplorer.exe.config
+C:\Users\User\source\repos\fileexplorer\fileexplorer\bin\Debug\fileexplorer.exe
+C:\Users\User\source\repos\fileexplorer\fileexplorer\bin\Debug\fileexplorer.pdb
+C:\Users\User\source\repos\fileexplorer\fileexplorer\obj\Debug\fileexplorer.exe
+C:\Users\User\source\repos\fileexplorer\fileexplorer\obj\Debug\fileexplorer.pdb

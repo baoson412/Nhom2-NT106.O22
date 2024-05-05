@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormPlaying));
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.labelSide0 = new System.Windows.Forms.Label();
             this.labelSide1 = new System.Windows.Forms.Label();
@@ -184,6 +185,7 @@
             this.Controls.Add(this.labelSide0);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.menuStrip1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "FormPlaying";

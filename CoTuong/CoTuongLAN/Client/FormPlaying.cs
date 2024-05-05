@@ -409,6 +409,19 @@ namespace Client
                 service.SendToServer(string.Format("win,{0},{1}", tableIndex, side));
             }
         }
+
+        //newgame menustrip
+        private void newGameToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            initGrid();
+            RePaint();
+
+            
+
+            service.SendToServer(string.Format("Talk,{0},{1}", tableIndex, "Let's replay!"));
+
+        }
+
         public void ShowForm(int sideWin)
         {
             if(this.side==sideWin)
@@ -422,6 +435,8 @@ namespace Client
                 formLose.ShowDialog();
             }
         }
+
+        
 
         public void drawFrame(string color, int x, int y)
         {
